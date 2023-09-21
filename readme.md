@@ -1,7 +1,7 @@
 # Bonjour GSI 
 
-Je m'appelle Kermezli Yamina Fairouz 
-Ce dossier contient tous les fichiers, images, etc . du cours design info 
+Je m'appelle Kermezli Yamina Fairouz,
+ce dossier contient tous les fichiers, images, etc . du cours design info 
 fait à Saint-Denis
 Professeur: E.Reyes
 
